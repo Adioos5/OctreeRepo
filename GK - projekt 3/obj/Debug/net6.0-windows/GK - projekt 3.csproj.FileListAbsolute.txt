@@ -1,0 +1,51 @@
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK___projekt_3.Form1.resources
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.AssemblyInfo.cs
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.exe
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.deps.json
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.runtimeconfig.json
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.dll
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.pdb
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.dll
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\refint\GK - projekt 3.dll
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.pdb
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.genruntimeconfig.cache
+C:\Users\adria\source\repos\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\ref\GK - projekt 3.dll
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.exe
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.deps.json
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.runtimeconfig.json
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.dll
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.pdb
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK___projekt_3.Form1.resources
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.AssemblyInfo.cs
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.dll
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\refint\GK - projekt 3.dll
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.pdb
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.genruntimeconfig.cache
+C:\Users\adria\Desktop\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\ref\GK - projekt 3.dll
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.exe
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.deps.json
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.runtimeconfig.json
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.dll
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\bin\Debug\net6.0-windows\GK - projekt 3.pdb
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK___projekt_3.Form1.resources
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.AssemblyInfo.cs
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.dll
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\refint\GK - projekt 3.dll
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.pdb
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\GK - projekt 3.genruntimeconfig.cache
+C:\Users\adria\Desktop\Studia\GK-Slajdy\313207 - Adrian Cieśla\GK - projekt 3\GK - projekt 3\obj\Debug\net6.0-windows\ref\GK - projekt 3.dll
